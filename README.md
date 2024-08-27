@@ -14,9 +14,11 @@ I am currently a student at Bauman Moscow State Technical University, studying i
 
 I have been involved in various projects that span different domains, from game development using Unreal Engine to creating robust applications with Python and C++. Here are some highlights:
 
-- **[Bot Den](https://disk.yandex.ru/d/jpzjT2CvswGYAA):** HR bot.
 - **[Reminder](https://github.com/reduct0r/Reminder):** GUI card game.
+- **[Bot Den](https://disk.yandex.ru/d/jpzjT2CvswGYAA):** HR bot (UE4).
+- **[Seller bot](https://github.com/reduct0r/SellerBot):** C++ telegram bot for sale.
 - **[Plane CV](https://github.com/reduct0r/Plane_ComputerVision):** Real-time computer vision from an aircraft-type drone.
+
 
 ## Education
 

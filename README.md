@@ -6,18 +6,18 @@ I am currently a student at Bauman Moscow State Technical University, studying i
 
 ## Technologies & Tools
 
-- **Languages:** Python, C++
+- **Languages:** C++, Kotlin
 - **Game Development:** Unreal Engine
+- **Firmware:** ESP32 & PlatformIO
 - **Version Control:** Git & GitHub
 
 ## Projects
 
 I have been involved in various projects that span different domains, from game development using Unreal Engine to creating robust applications with Python and C++. Here are some highlights:
 
-- **[Reminder](https://github.com/reduct0r/Reminder):** GUI card game.
-- **[Bot Den](https://disk.yandex.ru/d/jpzjT2CvswGYAA):** HR bot (UE4).
+- **[Reminder](https://github.com/reduct0r/Reminder):** GUI card game for memorizing information.
 - **[Seller bot](https://github.com/reduct0r/SellerBot):** C++ telegram bot for sale.
-- **[Plane CV](https://github.com/reduct0r/Plane_ComputerVision):** Real-time computer vision from an aircraft-type drone.
+- **[JokesWatcher](https://github.com/reduct0r/T-Bank_Jokes_Watcher):** Applications for viewing and adding jokes from the web, database, and cache.
 
 
 ## Education

@@ -13,6 +13,6 @@ I am currently a student at Bauman Moscow State Technical University, studying i
 ## Contact
 
 Feel free to connect with me:
-- **Telegram:** [timuryanshin](https://t.me/timuryanshin)
+- **Telegram:** [link](https://t.me/timuryanshin)
 
 Thank you for visiting my GitHub profile! You can check out my repositories to see what I've been working on.

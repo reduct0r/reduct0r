@@ -6,15 +6,13 @@ I am currently a student at Bauman Moscow State Technical University, studying i
 
 ## Technologies & Tools
 
-- **Languages:** C++, Kotlin
+- **Languages:** Kotlin, C++
+- **Platforms:** Android, ESP32 & PlatformIO, SpringBoot
 - **Game Development:** Unreal Engine
-- **Firmware:** ESP32 & PlatformIO
-- **Platforms:** Android
 
 ## Contact
 
 Feel free to connect with me:
-- **Email:** timur_hay@mail.ru
 - **Telegram:** [timuryanshin](https://t.me/timuryanshin)
 
 Thank you for visiting my GitHub profile! You can check out my repositories to see what I've been working on.

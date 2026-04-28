@@ -15,4 +15,8 @@ I am currently a student at Bauman Moscow State Technical University, studying i
 Feel free to connect with me:
 - **Telegram:** [link](https://t.me/timuryanshin)
 
+---
 Thank you for visiting my GitHub profile! You can check out my repositories to see what I've been working on.
+### Please check my pins👇
+
+
